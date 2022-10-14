@@ -1,0 +1,27 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+.container{
+     margin: 12px;
+     padding: 50px;
+     background: #78ec78;
+     width: 40vmax;
+     min-height: 40vh;
+     font-size: 1.8rem;
+}
+#result{
+     padding: 5px;
+     background: yellow;
+     border: 0px solid black;
+     border-radius: 11px;
+}
+.btn{
+    background: #ff7878;
+    padding: 5px;
+    margin: 25px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 1.4rem;
+    font-weight: bold;
+}
